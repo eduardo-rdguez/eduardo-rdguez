@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working at [MakingDevs](https://www.makingdevs.com/)
 
-- 🥷🏼 Working on multiple projects at [EBC](https://www.ebc.mx/), [Citibanamex](https://www.banamex.com/), [Banregio](https://www.banregio.com/), [P3 Group](https://www.p3-group.com/en/) and [Kueski](https://kueski.com/).
-
 - 🌱 I’m currently learning **React, Ruby, Elixir and Rust**
 
 - 👨🏻‍💻 To learn more about me, visit my [https://eduardo-rdguez.github.io/](https://eduardo-rdguez.github.io/)
