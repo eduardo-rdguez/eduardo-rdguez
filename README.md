@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React, Ruby, Elixir and Rust**
 
-- 👨🏻‍💻 To learn more about me, visit my [https://eduardo-rdguez.github.io/](https://eduardo-rdguez.dev/)
+- 👨🏻‍💻 To learn more about me, visit my [https://eduardo-rdguez.dev/](https://eduardo-rdguez.dev/)
 
 - 📫 How to reach me **eduardoperaltardgz@gmail.com**
 
