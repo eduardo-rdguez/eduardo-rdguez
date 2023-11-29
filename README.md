@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋🏼, I'm Eduardo</h1>
 
-- 🔭 I’m currently working at [MakingDevs](https://www.makingdevs.com/)
+- 🔭 I’m currently working as a Software Engineer
 
 - 🌱 I’m currently learning **React, Ruby, Elixir and Rust**
 
-- 👨🏻‍💻 To learn more about me, visit my [https://eduardo-rdguez.dev/](https://eduardo-rdguez.dev/)
+- 👨🏻‍💻 To learn more about me, visit my [https://eduardo-rdguez.dev](https://eduardo-rdguez.dev)
 
 - 📫 How to reach me **eduardoperaltardgz@gmail.com**
 
