@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Software Engineer
 
-- 🌱 I’m currently learning **React, Ruby, Elixir and Rust**
+- 🌱 I’m currently learning **Ruby and Elixir**
 
 - 👨🏻‍💻 To learn more about me, visit my [https://eduardo-rdguez.dev](https://eduardo-rdguez.dev)
 
@@ -26,7 +26,7 @@
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat-square)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/Phoenix-F05423?style=flat-square&logo=phoenix&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![React.js](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
