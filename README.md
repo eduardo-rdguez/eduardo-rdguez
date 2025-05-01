@@ -39,6 +39,7 @@
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-%23000000.svg?style=flat-square&logo=openapiinitiative&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square)
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?logo=scrumalliance&logoColor=white&style=flat-square)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?logo=sanity&logoColor=fff&style=flat-square)
 
 ### Workspace
 
